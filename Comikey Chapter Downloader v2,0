@@ -6,7 +6,7 @@
     // @version      2.0
     // @description  Download images from comikey.com to a subfolder. Captures 0.webp, converts to PNG, and saves individually.
     // @author       ozler365
-    // @license      MIT
+    // @license      GPL-3.0-only
     // @match        https://comikey.com/read/*
     // @icon         https://comikey.com/static/images/favicons/favicon.b6e9a28323d2.png
     // @grant        GM_download
