@@ -1,14 +1,23 @@
-*Scroll to the end and load al of the pages in the chapter then click on Download.
-* Caution - Image might not Download them as per their original order.
+*set the reading direction to scroll up to down (not right to left)
 
-*This is for educational purpose, don't repost the downloaded images
-zip is not supported but individual images will be downloading them in a separate folder
-Tamper Monkey recommended
+*for downloading manga select "Manga mode" for downloading manhwa, manhua select "Webtoon mode"
+
+*for some reason in "Webtoon Mode" page counter will show one extra image (ex- if the total image counter shows 46 images that means there are only 45 images)
+
+*auto scroll recommended
+
+*AUTO SCROLL MIGHT FEEL SLOW BUT IT'S TOTALLY DEPENDS ON HOW FAST YOU IMAGE LOADS, IF YOU IMAGE LOADS FAST THEN IT'LL SCROLL BUT IF YOUR IMAGE LOADING SLOWING IT'LL WAIT
 
 Help Keep This Userscript
 Updated and Running Smoothly
 With a Small Donation - https://buymeacoffee.com/ozler
 
+Visit My Website - https://ozler365.github.io/ozler-s-works-info/#/repositories
+
 For Queries or Feature Requests
 Review on Greasyfork or Email:
 devjk6918@gmail.com
+
+*This is for educational purpose, don't repost the downloaded images
+zip is not supported but individual images will be downloading them in a separate folder
+Tamper Monkey recommended
